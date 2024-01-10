@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { TreeMobxAutorunDirective } from './mobx-angular/tree-mobx-autorun.directive';
+export { TreeMobxAutorunDirective };
 
 import {
   IActionHandler,

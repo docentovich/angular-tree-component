@@ -1,5 +1,5 @@
-<a name="11.0.3"></a>
-# 11.0.3 (2021-02-18)
+<a name="16.0.1"></a>
+# 16.0.1 (2024-01-10)
 
 ### Bug Fixes
 
@@ -115,7 +115,7 @@ package.json
 ```
 "dependencies": {
     ...
-    "@circlon/angular-tree-component": "^9.0.1",
+    "@docentovich/angular-tree-component": "^9.0.1",
     ...
 }
 ```
@@ -135,7 +135,7 @@ AFTER:
 package.json
 
 ```
-@import '~@circlon/angular-tree-component/css/angular-tree-component.css';
+@import '~@docentovich/angular-tree-component/css/angular-tree-component.css';
 ```
 
 <a name="9.0.0"></a>
