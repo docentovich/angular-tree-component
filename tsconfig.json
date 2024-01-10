@@ -1,0 +1,38 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "target": "es2015",
+    "outDir": "/dist/out-tsc",
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "stripInternal": true,
+    "typeRoots": ["node_modules/@types"],
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "paths": {
+      "angular-tree-component": [
+        "projects/angular-tree-component/src/public-api.ts",
+        "projects/angular-tree-component/src/public-api.ts"
+      ],
+      "angular-tree-component/*": [
+        "projects/angular-tree-component/src/lib/*",
+        "projects/angular-tree-component/src/lib/*"
+      ]
+    }
+  },
+  "compileOnSave": false,
+  "buildOnSave": false,
+  "angularCompilerOptions": {
+    "skipTemplateCodegen": true,
+    "enableIvy": false
+  }
+}
