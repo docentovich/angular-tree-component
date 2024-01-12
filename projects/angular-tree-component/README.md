@@ -1,6 +1,6 @@
 # angular tree component
 
-This is a fork of [@circlon/angular-tree-component](https://github.com/CirclonGroup/angular-tree-component) with angular@16 support
+This is a fork of [@circlon/angular-tree-component](https://github.com/docentovich/angular-tree-component) with angular@16 support
 
 ## Getting started
 
@@ -61,4 +61,4 @@ Please check the issues / project before starting to work on a feature / bug to 
 ## Contributors
 
 This project exists thanks to all the people who contribute.
-<a href="https://github.com/CirclonGroup/angular-tree-component/graphs/contributors"><img src="https://opencollective.com/angular-tree-component/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/docentovich/angular-tree-component/graphs/contributors"><img src="https://opencollective.com/angular-tree-component/contributors.svg?width=890&button=false" /></a>

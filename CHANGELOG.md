@@ -3,29 +3,29 @@
 
 ### Bug Fixes
 
-* return TreeNode for first and last child ([#893](https://github.com/CirclonGroup/angular-tree-component/issues/893)) ([c0792c3](https://github.com/CirclonGroup/angular-tree-component/commit/c0792c3)), closes ([#893](https://github.com/CirclonGroup/angular-tree-component/issues/893))
+* return TreeNode for first and last child ([#893](https://github.com/docentovich/angular-tree-component/issues/893)) ([c0792c3](https://github.com/docentovich/angular-tree-component/commit/c0792c3)), closes ([#893](https://github.com/docentovich/angular-tree-component/issues/893))
 
 <a name="11.0.2"></a>
 # 11.0.2 (2021-02-16)
 
 ### Bug Fixes
 
-* merge default and optional action mappings ([#891](https://github.com/CirclonGroup/angular-tree-component/issues/891)) ([4b2d8a9](https://github.com/CirclonGroup/angular-tree-component/commit/4b2d8a9)), closes ([#891](https://github.com/CirclonGroup/angular-tree-component/issues/891))
+* merge default and optional action mappings ([#891](https://github.com/docentovich/angular-tree-component/issues/891)) ([4b2d8a9](https://github.com/docentovich/angular-tree-component/commit/4b2d8a9)), closes ([#891](https://github.com/docentovich/angular-tree-component/issues/891))
 
 <a name="11.0.1"></a>
 # 11.0.1 (2021-02-16)
 
 ### Bug Fixes
 
-* remove log calls ([#889](https://github.com/CirclonGroup/angular-tree-component/issues/889)) ([eb055aa](https://github.com/CirclonGroup/angular-tree-component/commit/22e0d85)), closes ([#889](https://github.com/CirclonGroup/angular-tree-component/issues/889))
+* remove log calls ([#889](https://github.com/docentovich/angular-tree-component/issues/889)) ([eb055aa](https://github.com/docentovich/angular-tree-component/commit/22e0d85)), closes ([#889](https://github.com/docentovich/angular-tree-component/issues/889))
 
 <a name="11.0.0"></a>
 # 11.0.0 (2021-02-15)
 
 ### Features
 
-* update to angular 11 ([4528c96](https://github.com/CirclonGroup/angular-tree-component/commit/4528c96))
-* remove lodash-es ([f639c98](https://github.com/CirclonGroup/angular-tree-component/commit/f639c98))
+* update to angular 11 ([4528c96](https://github.com/docentovich/angular-tree-component/commit/4528c96))
+* remove lodash-es ([f639c98](https://github.com/docentovich/angular-tree-component/commit/f639c98))
 
 ### BREAKING CHANGES
 
@@ -42,28 +42,28 @@ getNodeById(predicate) - predicate needs to support javaScript find method
 
 ### Bug Fixes
 
-* update lodash-es ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/862)) ([22e0d85](https://github.com/CirclonGroup/angular-tree-component/commit/22e0d85)), closes ([#862](https://github.com/CirclonGroup/angular-tree-component/issues/862))
+* update lodash-es ([#862](https://github.com/docentovich/angular-tree-component/issues/862)) ([22e0d85](https://github.com/docentovich/angular-tree-component/commit/22e0d85)), closes ([#862](https://github.com/docentovich/angular-tree-component/issues/862))
 
 <a name="10.0.1"></a>
 # 10.0.1 (2020-12-11)
 
 ### Bug Fixes
 
-* do not load whole child collection with virtual scroll ([#463](https://github.com/CirclonGroup/angular-tree-component/issues/463)) ([a62fc73](https://github.com/CirclonGroup/angular-tree-component/commit/a62fc73))
+* do not load whole child collection with virtual scroll ([#463](https://github.com/docentovich/angular-tree-component/issues/463)) ([a62fc73](https://github.com/docentovich/angular-tree-component/commit/a62fc73))
 
 <a name="10.0.0"></a>
 # 10.0.0 (2020-07-29)
 
 ### Code Refactoring
 
-* remove unused polyfill ([#847](https://github.com/CirclonGroup/angular-tree-component/issues/847)) ([5a1a14e](https://github.com/CirclonGroup/angular-tree-component/commit/5a1a14e)), closes ([#847](https://github.com/CirclonGroup/angular-tree-component/issues/847))
+* remove unused polyfill ([#847](https://github.com/docentovich/angular-tree-component/issues/847)) ([5a1a14e](https://github.com/docentovich/angular-tree-component/commit/5a1a14e)), closes ([#847](https://github.com/docentovich/angular-tree-component/issues/847))
 
 <a name="10.0.0-beta.0"></a>
 # 10.0.0-beta.0 (2020-07-22)
 
 ### Features
 
-* Update to Angular 10 ([5338eb4](https://github.com/CirclonGroup/angular-tree-component/commit/5338eb4))
+* Update to Angular 10 ([5338eb4](https://github.com/docentovich/angular-tree-component/commit/5338eb4))
 
 ### BREAKING CHANGES
 
@@ -80,14 +80,14 @@ Angular v10 minimum dependencies
 
 ### Build
 
-* add license to library package.json ([#843](https://github.com/CirclonGroup/angular-tree-component/issues/843)) ([23476c8](https://github.com/CirclonGroup/angular-tree-component/commit/23476c8)), closes ([#843](https://github.com/CirclonGroup/angular-tree-component/issues/843))
+* add license to library package.json ([#843](https://github.com/docentovich/angular-tree-component/issues/843)) ([23476c8](https://github.com/docentovich/angular-tree-component/commit/23476c8)), closes ([#843](https://github.com/docentovich/angular-tree-component/issues/843))
 
 <a name="9.0.2"></a>
 # 9.0.2 (2020-07-15)
 
 ### Bug Fixes
 
-* include mobx as dependency ([a96f2bc](https://github.com/CirclonGroup/angular-tree-component/commit/a96f2bc))
+* include mobx as dependency ([a96f2bc](https://github.com/docentovich/angular-tree-component/commit/a96f2bc))
 
 <a name="9.0.1"></a>
 # 9.0.1 (2020-07-15)
@@ -143,20 +143,20 @@ package.json
 
 ### Bug Fixes
 
-* Use correct ITreeOptions input in TreeComponent instead of TreeOptions ([#795](https://github.com/CirclonGroup/angular-tree-component/issues/795)) ([62f0c02](https://github.com/CirclonGroup/angular-tree-component/commit/62f0c02)), closes ([#795](https://github.com/CirclonGroup/angular-tree-component/issues/795))
+* Use correct ITreeOptions input in TreeComponent instead of TreeOptions ([#795](https://github.com/docentovich/angular-tree-component/issues/795)) ([62f0c02](https://github.com/docentovich/angular-tree-component/commit/62f0c02)), closes ([#795](https://github.com/docentovich/angular-tree-component/issues/795))
 
 ### Features
 
-* Update to Angular 9 ([37feac56](https://github.com/CirclonGroup/angular-tree-component/commit/37feac56))
+* Update to Angular 9 ([37feac56](https://github.com/docentovich/angular-tree-component/commit/37feac56))
 
 ### Code Refactoring
 
-* use on example app and move app to projects ([5ded257](https://github.com/CirclonGroup/angular-tree-component/commit/5ded257))
-* move library to projects and use ng-packagr for build ([a04ea64](https://github.com/CirclonGroup/angular-tree-component/commit/a04ea64))
+* use on example app and move app to projects ([5ded257](https://github.com/docentovich/angular-tree-component/commit/5ded257))
+* move library to projects and use ng-packagr for build ([a04ea64](https://github.com/docentovich/angular-tree-component/commit/a04ea64))
 
 ### BREAKING CHANGES
 
-* Provide TreeDraggedElement in root ([50dee1b](https://github.com/CirclonGroup/angular-tree-component/commit/50dee1b))
+* Provide TreeDraggedElement in root ([50dee1b](https://github.com/docentovich/angular-tree-component/commit/50dee1b))
 
 BEFORE:
 

@@ -53,7 +53,7 @@
   "files": [
     "dist/"
   ],
-  "readme": "https://github.com/CirclonGroup/angular-tree-component/blob/master/README.md",
+  "readme": "https://github.com/docentovich/angular-tree-component/blob/master/README.md",
   "contributors": [
     "Adam Klein <adam@500tech.com>"
   ],
@@ -117,9 +117,9 @@
     "uuid": "^8.2.0",
     "zone.js": "~0.13.0"
   },
-  "repository": "https://github.com/CirclonGroup/angular-tree-component.git",
+  "repository": "https://github.com/docentovich/angular-tree-component.git",
   "bugs": {
-    "url": "https://github.com/CirclonGroup/angular-tree-component/issues"
+    "url": "https://github.com/docentovich/angular-tree-component/issues"
   },
   "engines": {
     "node": ">=10.21.0"

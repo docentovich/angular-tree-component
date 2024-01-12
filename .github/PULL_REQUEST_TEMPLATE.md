@@ -1,7 +1,7 @@
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
 
-- [ ] The commit message follows our guidelines: https://github.com/CirclonGroup/angular-tree-component/blob/master/CONTRIBUTING.md#commit-message-guidelines
+- [ ] The commit message follows our guidelines: https://github.com/docentovich/angular-tree-component/blob/master/CONTRIBUTING.md#commit-message-guidelines
 - [ ] Tests for the changes have been added (for bug fixes / features)
 
 ## PR Type

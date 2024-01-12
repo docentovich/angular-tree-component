@@ -65,7 +65,7 @@ to read on GitHub as well as in various git tools.
 
 The footer should contain a [closing reference to an issue](https://help.github.com/articles/closing-issues-via-commit-messages/) if any.
 
-Samples: (even more [samples](https://github.com/CirclonGroup/angular-tree-component/commits/master))
+Samples: (even more [samples](https://github.com/docentovich/angular-tree-component/commits/master))
 
 ```
 docs(changelog): update changelog to beta.5
@@ -144,4 +144,4 @@ AFTER:
 New code example here
 ```
 
-[coc]: https://github.com/CirclonGroup/angular-tree-component/blob/master/CODE_OF_CONDUCT.md
+[coc]: https://github.com/docentovich/angular-tree-component/blob/master/CODE_OF_CONDUCT.md
