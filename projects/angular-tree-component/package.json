@@ -1,6 +1,6 @@
 {
   "name": "@docentovich/angular-tree-component",
-  "author": "docentovich <docentovich@gmail.com>",
+  "author": "Circlon Group <os-group@circlon.de>; Andrey Prozorov <docentovich@gmail.com>",
   "homepage": "https://github.com/docentovich/angular-tree-component",
   "description": "A simple yet powerful tree component for Angular",
   "license": "MIT",
