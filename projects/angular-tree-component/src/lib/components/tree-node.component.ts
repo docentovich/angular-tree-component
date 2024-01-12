@@ -1,7 +1,8 @@
 import {
   Component,
   Input,
-  ViewEncapsulation,
+  Type,
+  ViewEncapsulation
 } from '@angular/core';
 import { TreeNode } from '../models/tree-node.model';
 
@@ -36,6 +37,7 @@ import { TreeNode } from '../models/tree-node.model';
         <tree-node-children
           [node]="node"
           [templates]="templates"
+          [treeNodeCollectionType]="treeNodeCollectionType"
         ></tree-node-children>
         <tree-node-drop-slot
           [dropIndex]="node.index + 1"
@@ -57,6 +59,7 @@ import { TreeNode } from '../models/tree-node.model';
 })
 export class TreeNodeComponent {
   @Input() node: TreeNode;
+  @Input() treeNodeCollectionType: Type<any>;
   @Input() index: number;
   @Input() templates: any;
 }

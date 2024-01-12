@@ -25,7 +25,7 @@ import { TreeNodeComponent } from './components/tree-node.component';
 import { TreeNodeContent } from './components/tree-node-content.component';
 import { TreeNodeDropSlot } from './components/tree-node-drop-slot.component';
 import { TreeNodeExpanderComponent } from './components/tree-node-expander.component';
-import { TreeNodeChildrenComponent } from './components/tree-node-children.component';
+import { ChildHostComponent, TreeNodeChildrenComponent } from './components/tree-node-children.component';
 import { TreeNodeCollectionComponent } from './components/tree-node-collection.component';
 import { TreeNodeWrapperComponent } from './components/tree-node-wrapper.component';
 import { TreeViewportComponent } from './components/tree-viewport.component';
@@ -50,7 +50,8 @@ import { TreeAnimateOpenDirective } from './directives/tree-animate-open.directi
     TreeNodeWrapperComponent,
     TreeNodeCheckboxComponent,
     TreeAnimateOpenDirective,
-    TreeMobxAutorunDirective
+    TreeMobxAutorunDirective,
+    ChildHostComponent
   ],
   exports: [
     TreeComponent,

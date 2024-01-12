@@ -22,6 +22,7 @@ import { TreeModel } from '../models/tree.model';
           [node]="node"
           [index]="i"
           [templates]="templates"
+          [treeNodeCollectionType]='treeNodeCollectionComponent'
         >
         </tree-node>
       </div>
@@ -29,6 +30,7 @@ import { TreeModel } from '../models/tree.model';
   `
 })
 export class TreeNodeCollectionComponent implements OnInit, OnDestroy {
+  treeNodeCollectionComponent = TreeNodeCollectionComponent
   @Input()
   get nodes() {
     return this._nodes;
